@@ -1,5 +1,5 @@
-# Mensaje de bienvenida al administrador
-print("Bienvenido, Administrador!")
+# Mensaje de bienvenida 
+print("Bienvenido, a YesFitness")
 
 
 # Lista de productos iniciales

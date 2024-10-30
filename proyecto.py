@@ -1,5 +1,5 @@
 # Mensaje de bienvenida 
-print("Bienvenido, a YesFitness")
+print("Bienvenido a YesFitness")
 
 
 # Lista de productos iniciales
